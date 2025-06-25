@@ -1,4 +1,5 @@
 from helpers.reader import pdf, excel, image, word
+from model.OcrPrescription import ocr_image_with_gemini
 
 def process_file(file_path: str):
     context = ""
@@ -10,8 +11,9 @@ def process_file(file_path: str):
         context = excel(file_path)
         return {"context":context}
     elif file_path.endswith(".png") or file_path.endswith(".jpg") or file_path.endswith(".jpeg"):
-        context = image(file_path)
-        return {"context":context}
+        context = ocr_image_with_gemini(file_path)
+        print(" ".join(context), "context")
+        return {"context":" ".join(context)}
     elif file_path.endswith(".docx"):
         print(file_path)
         context = word(file_path)

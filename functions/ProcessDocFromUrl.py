@@ -5,7 +5,7 @@ import requests
 import shutil
 import os
 from helpers.fileProcess import process_file
-from functions.ProcessPrescription import process_prescription, match_drugs
+from model.OcrPrescription import OcrPrescription
 
 class QuestionRequestUrl(BaseModel):
     url: str
@@ -35,10 +35,8 @@ async def process_file_from_url(url: str, type: int = 1):
             result = process_file(file_path)
 
         elif type == 2:
-            extracted_text = process_prescription(file_path)
-            matched_drugs = match_drugs(extracted_text["extracted_text"])
-            result = {"matched_drugs": matched_drugs}
-
+            matched_drugs = OcrPrescription(file_path)
+            result = {"Matched_Drugs": matched_drugs["Matched_Drugs"]}
         return result
     except Exception as e:
         print(e)
