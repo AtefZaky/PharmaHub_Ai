@@ -1,0 +1,6 @@
+temp
+segments
+trainingData
+*.keras
+__pycache__
+*.whl

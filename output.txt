@@ -1,0 +1,208 @@
+تقرير تحليلي
+
+العميل: روضة سميث 
+المخاطب: جون سميث
+العنوان: 123 شارع مين 
+مدينة:_ANYWHERE 
+ولاية: FL 
+رمز البريد: 30000
+تاريخ العينة: 26 أبريل 2013
+تاريخ الاستلام: 3 مايو 2013
+تاريخ الانتهاء: 5 مايو 2013
+
+وصف العينة: ماء بئر 5
+نطاق العينة: ماء
+
+EMW-400 : ملاءمة المياه للري
+
+المكونات النتائج المدى المستهدف المقبول
+الكатиونات الرئيسية:
+البوتاسيوم K 3.70 0.09 <100
+الكالسيوم Ca 49.57 248 25-75 <150
+المغنيسيوم Mg 23.22 1.94 10-30 <50
+الصوديوم Na 4.74 0.21 0-20 <50
+الأنيونات الرئيسية:
+الفوسفات PO4 0.63 0.02 <90
+الكبريتات SO4 9.94 021 0-120 <240
+الكلوريد Cl 11.00 031 0-20 <140
+بيكربونات HCO3 226.35 3.71
+الكربونات CO3 0.00 ND
+نترات الأمونيوم NH4-N ND <10
+نترات النيتروجين NO3-N 3.20 <75
+درجة الحموضة pH 7.43 5.5-7.4 4-10
+الأملاح القابلة للذوبان Ec 0.42 0.20 - 0.80 0-15
+القلوية الكلية CaCO3 185.54 40 - 160 0-400
+الحديد Fe 0.01 <1 <4
+المنغنيز Mn 0.01 <1 <2
+البورون B 0.04 <0.10 <0.5
+النحاس Cu 0.02 <0.10 <0.2
+الزنك Zn 0.08 <0.50 <1
+الموليبدنوم Mo 0.01 <0.10 <0.2
+الألمنيوم Al 0.10
+
+مختبرات التحليلات الجودة
+925 شارع شيري - مدينة بنما سيتي، فلوريدا 32401 - هاتف - (850) 872-9595 - فاكس - (850) 872-9535
+www.qal.us-
+
+النتائج تشير إلى أن مياه بئر 5 تتوافق مع معايير جودة المياه للري، حيث أن معظم المعايير ضمن النطاقات المقبولة. ومع ذلك، هناك بعض الشوارد التي تظهر نتائج أعلى قليلاً من النطاقات المستهدفة، مثل البوتاسيوم والصوديوم والكبريتات. ويشير هذا إلى أن مياه البئر قد تحتاج إلى معالجة أو تصفية قبل استخدامها للري.تقرير مختصر عن التحليل البولي
+
+النتائج:
+
+* اللون: أصفر
+* المظهر: غائم
+* درجة الحموضة: 6.0 (منخفضة)
+* الكثافة النوعية: 1.030 (مرتفعة)
+* البروتين: سالب
+* الغلوكوز: سالب
+* الكيتون: سالب
+* البilirubin: سالب
+* الدم: سالب
+* اليوروبيلينوجين: <2.0
+* النتريت: سالب
+* ليوكوسيت إستيراز: 2+ (مرتفع)
+* خلايا الدم الحمراء: 0
+* خلايا الدم البيضاء: 3 (مرتفعة)
+* خلايا البشرة المعدنية: 7
+* البكتيريا: موجودة
+
+النتائج تشير إلى أن التحليل البولي يظهر بعض الشوارد غير الطبيعية، مثل:
+* درجة الحموضة منخفضة
+* الكثافة النوعية مرتفعة
+* ليوكوسيت إستيراز مرتفع
+* خلايا الدم البيضاء مرتفعة
+* البكتيريا موجودة
+
+هذه النتائج قد تشير إلى وجود التهاب أو عدوى في المسالك البولية. يجب على المريض استشارة الطبيب لمعرفة سبب هذه الشوارد وطريقة العلاج.تحليل عينة البول
+
+التقرير الطبية:
+
+* اسم المريض: ماري سميث
+* عمر/جنس: 62 سنة/أنثى
+* تاريخ الميلاد: 15 يناير 1952
+* رقم الهوية: 1248899554
+* اسم الطبيب: جين دو، إم دي
+* حالة الطلب: روتيني
+* رقم العينة: 0214
+* تاريخ ووقت جمع العينة: 22 فبراير 2014، 7:30 صباحًا
+* تاريخ ووقت استلام العينة: 22 فبراير 2014، 10:00 صباحًا
+
+النتائج:
+
+* لون البول: أصفر
+* المظهر: غائم واضح
+* الغلوكوز: سالب
+* البيليروبين: سالب
+* الكيتون: سالب
+* الكثافة النوعية: 1.017 (معياري: 1.003-1.035)
+* الدم: سالب
+* الرقم الهيدروجيني: 6.0 (معياري: 5.0-8.0)
+* البروتين: سالب
+* اليوروبيلينوجين: 0.3 (معياري: 0.1-1.0 ملغرام/ديسيلتر)
+* النتريت: موجب
+* إنزيم ليوكوستيراز: 2+ (معياري: سالب)
+* الفحص المجهري: مثبت
+
+النتائج المجهري:
+
+* خلايا الدم الحمراء: نادرة
+* خلايا الدم البيضاء: 20-30 خلية/حقل قوي
+* خلايا البشرة: 1-5 خلية/حقل قوي
+* البكتيريا: 4+ (معياري: سالب)
+
+التقييم:
+
+* تشير النتائج إلى أن المريض قد يعاني من عدوى.
+* نظرًا لذلك، سيتم إجراء ثقافة البول تلقائيًا trừ إذا طلب الطبيب عدم إجراءها.
+
+الاستنتاج:
+
+* يجب على الطبيب تقييم النتائج في سياق الحالة السريرية للمريض.
+* قد تشير النتائج إلى وجود عدوى، وبالتالي يجب على الطبيب اتخاذ الإجراءات اللازمة للعلاج.Let's break down each item in the urinalysis report:
+
+1. **COLOR**: لون البول (Color of the urine)
+	* YELLOW: normal color of urine
+	* ABNORMAL: may indicate infection, kidney disease, or other conditions
+2. **APPEARANCE**: المظهر (Appearance of the urine)
+	* HAZY: cloudy or turbid urine, may indicate infection or kidney disease
+	* CLEAR: normal appearance of urine
+3. **GLUCOSE**: الغلوكوز (Glucose in the urine)
+	* NEGATIVE: normal, no glucose present
+	* POSITIVE: may indicate diabetes, kidney disease, or other conditions
+4. **BILIRUBIN**: البيليروبين (Bilirubin in the urine)
+	* NEGATIVE: normal, no bilirubin present
+	* POSITIVE: may indicate liver disease, bile duct obstruction, or other conditions
+5. **KETONE**: الكيتون (Ketones in the urine)
+	* NEGATIVE: normal, no ketones present
+	* POSITIVE: may indicate diabetes, fasting, or other conditions
+6. **SPEC GRAV**: الكثافة النوعية (Specific Gravity of the urine)
+	* 1.017: normal value, indicates proper kidney function
+	* ABNORMAL: may indicate kidney disease, dehydration, or other conditions
+7. **BLOOD**: الدم (Blood in the urine)
+	* NEGATIVE: normal, no blood present
+	* POSITIVE: may indicate urinary tract infection, kidney disease, or other conditions
+8. **PH**: الرقم الهيدروجيني (pH of the urine)
+	* 6.0: normal value, indicates proper kidney function
+	* ABNORMAL: may indicate kidney disease, urinary tract infection, or other conditions
+9. **PROTEIN**: البروتين (Protein in the urine)
+	* NEGATIVE: normal, no protein present
+	* POSITIVE: may indicate kidney disease, urinary tract infection, or other conditions
+10. **UROBILINOGEN**: اليوروبيلينوجين (Urobilinogen in the urine)
+	* 0.3: normal value, indicates proper liver function
+	* ABNORMAL: may indicate liver disease, kidney disease, or other conditions
+11. **NITRITE**: النتريت (Nitrite in the urine)
+	* POSITIVE: may indicate urinary tract infection
+	* NEGATIVE: normal, no nitrite present
+12. **LEUK ESTERASE**: إنزيم ليوكوستيراز (Leukocyte Esterase in the urine)
+	* 2+: may indicate urinary tract infection
+	* NEGATIVE: normal, no leukocyte esterase present
+13. **MICROSCOPIC**: الفحص المجهري (Microscopic examination of the urine)
+	* YES: indicates that a microscopic examination was performed
+14. **RBC**: خلايا الدم الحمراء (Red Blood Cells in the urine)
+	* OCCASIONAL: may indicate urinary tract infection, kidney disease, or other conditions
+	* NONE SEEN: normal, no red blood cells present
+15. **WBC**: خلايا الدم البيضاء (White Blood Cells in the urine)
+	* 20-30: may indicate urinary tract infection
+	* NONE SEEN: normal, no white blood cells present
+16. **EPITHELIAL CELLS**: خلايا البشرة (Epithelial Cells in the urine)
+	* 1-5: may indicate urinary tract infection or other conditions
+	* NONE SEEN: normal, no epithelial cells present
+17. **BACTERIA**: البكتيريا (Bacteria in the urine)
+	* 4+: may indicate urinary tract infection
+	* NONE SEEN: normal, no bacteria present
+
+These results can indicate various conditions, such as:
+
+* Urinary tract infection (UTI)
+* Kidney disease
+* Liver disease
+* Diabetes
+* Dehydration
+* Other conditions
+
+It's essential to consult a healthcare professional to interpret the results and determine the best course of action.أنا آسف، لكني لا أستطيع تقديم قائمة بالأدوية دون معرفة سياق أو غرض محدد. إذا كنت تبحث عن معلومات حول أدوية معينة أو فئات معينة من الأدوية، يرجى تقديم مزيد من التفاصيل حتى أستطيع مساعدتك بشكل أفضل.
+
+إذا كنت تبحث عن قائمة عامة بالأدوية، فيمكنني تقديم بعض الفئات العامة للأدوية، مثل:
+
+1. **أدوية الألم ومخففة الحمى** (مثل الباراسيتامول، الأسبرين)
+2. **أدوية الحساسية** (مثل الأنتي هيستامين)
+3. **أدوية ضغط الدم** (مثل البلوكيرز، محصرات بيتا)
+4. **أدوية السكر** (مثل الميتفورمين)
+5. **أدوية العدوى** (مثل المضادات الحيوية)
+
+من فضلك، أخبرني بمزيد من التفاصيل حول ما تبحث عنه حتى أستطيع تقديم معلومات أكثر دقة وpertinence. However, I can provide some general information about dogs if that's what you're looking for.
+
+If you're asking about breeds of dogs, here are some examples:
+- كلب الراعي الألماني (German Shepherd)
+- كلب البوليس (Police Dog)
+- كلب الراعي الإنجليزي (English Shepherd)
+- كلب البودل (Poodle)
+- كلب الشيواوا (Chihuahua)
+- كلب البكسر (Boxer)
+- كلب البولدوغ (Bulldog)
+- كلب الدالماشيان (Dalmatian)
+
+Please let me know if you need more information or if there's something specific you're looking for. Please provide the correct file or more information about the drugs you are looking for. 
+
+Alternatively, you can ask me about a specific type of drug or a specific condition, and I will do my best to provide you with a list of relevant drugs. 
+
+For example, you can ask me about أدوية للصداع (drugs for headaches), أدوية للالتهاب (drugs for inflammation), or أدوية لمرض السكري (drugs for diabetes). Could you provide more context or clarify which list of drugs you are referring to?
