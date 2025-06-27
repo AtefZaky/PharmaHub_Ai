@@ -16,8 +16,8 @@ def get_agent():
     from langchain_groq import ChatGroq
     print("Imported successfully")
     llm = ChatGroq(
-        model_name="llama3-70b-versatile",
-        # model_name="llama3-8b-8192",
+        # model_name="gemma2-9b-it",
+        model_name="llama3-8b-8192",
         api_key=GROQ_API_KEY,
         streaming=True
     )
